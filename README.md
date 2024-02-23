@@ -8,3 +8,4 @@ A resource pack that changes the appearance of regular vanilla and modded ores t
 - [Continuity](https://modrinth.com/mod/continuity) (required [Indium](https://modrinth.com/mod/indium)):  ✅️
 - [Universal Ores](https://modrinth.com/mod/universal_ores): ✅
 - [Deeper and Darker](https://modrinth.com/mod/deeperdarker): ✅
+- [Weeping Angels](https://modrinth.com/mod/weeping-angels): ✅
