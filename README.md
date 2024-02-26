@@ -6,6 +6,8 @@ A resource pack that changes the appearance of regular vanilla and modded ores t
 - Vanilla: ✅️
 - [OptiFine](https://optifine.net/downloads): ✅️
 - [Continuity](https://modrinth.com/mod/continuity) (required [Indium](https://modrinth.com/mod/indium)):  ✅️
+- [Connectedness](https://modrinth.com/mod/connectedness) (required [Reforgium](https://modrinth.com/mod/reforgium)): ✅️
+# Embedded mods 
 - [Universal Ores](https://modrinth.com/mod/universal_ores): ✅
 - [Deeper and Darker](https://modrinth.com/mod/deeperdarker): ✅
 - [Weeping Angels](https://modrinth.com/mod/weeping-angels): ✅
