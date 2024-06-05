@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "weeping_angels:block/deepslate_kontron_ore"
+    },
+	{
+      "model": "weeping_angels:block/deepslate_kontron_ore1"
+    },
+	{
+      "model": "weeping_angels:block/deepslate_kontron_ore2"
+    },
+	{
+      "model": "weeping_angels:block/deepslate_kontron_ore3"
+    },
+	{
+      "model": "weeping_angels:block/deepslate_kontron_ore4"
+    }
+	]
+  }
+}
