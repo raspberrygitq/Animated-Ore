@@ -9,6 +9,9 @@
     },
 	{
       "model": "minecraft:block/deepslate_iron_ore2"
+    },
+  {
+      "model": "minecraft:block/deepslate_iron_ore3"
     }
 	]
   }
