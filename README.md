@@ -11,3 +11,5 @@ A resource pack that changes the appearance of regular vanilla and modded ores t
 - [Universal Ores](https://modrinth.com/mod/universal_ores): ✅
 - [Deeper and Darker](https://modrinth.com/mod/deeperdarker): ✅
 - [Weeping Angels](https://modrinth.com/mod/weeping-angels): ✅
+# Incompatible mods
+- [Excavated Variants](https://modrinth.com/mod/excavated_variants): ❌
