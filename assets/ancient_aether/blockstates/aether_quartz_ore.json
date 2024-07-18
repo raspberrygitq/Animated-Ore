@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "ancient_aether:block/aether_quartz_ore"
+    },
+    {
+      "model": "ancient_aether:block/aether_quartz_ore1"
+    },
+    {
+      "model": "ancient_aether:block/aether_quartz_ore2"
+    },
+    {
+      "model": "ancient_aether:block/aether_quartz_ore3"
+    }
+  ]
+  }
+}

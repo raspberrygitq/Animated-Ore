@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "spelunkery:block/granite_redstone_ore"
+		},
+		{
+			"model": "spelunkery:block/granite_redstone_ore1"
+		},
+		{
+			"model": "spelunkery:block/granite_redstone_ore2"
+		},
+		{
+			"model": "spelunkery:block/granite_redstone_ore3"
+		}
+		]
+	}
+}

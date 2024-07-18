@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "spelunkery:block/diorite_iron_ore"
+		},
+		{
+			"model": "spelunkery:block/diorite_iron_ore1"
+		},
+		{
+			"model": "spelunkery:block/diorite_iron_ore2"
+		},
+		{
+			"model": "spelunkery:block/diorite_iron_ore3"
+		}
+		]
+	}
+}

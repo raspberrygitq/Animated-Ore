@@ -1,0 +1,21 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "universal_ores:block/basalt_quartz_ore"
+		},
+		{
+			"model": "universal_ores:block/basalt_quartz_ore1"
+		},
+		{
+			"model": "universal_ores:block/basalt_quartz_ore2"
+		},
+		{
+			"model": "universal_ores:block/basalt_quartz_ore3"
+		},
+		{
+			"model": "universal_ores:block/basalt_quartz_ore4"
+		}
+		]
+	}
+}

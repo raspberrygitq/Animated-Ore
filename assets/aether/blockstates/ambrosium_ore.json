@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "aether:block/ambrosium_ore"
+    },
+	{
+      "model": "aether:block/ambrosium_ore_1"
+    },
+	{
+      "model": "aether:block/ambrosium_ore_2"
+    },
+	{
+      "model": "aether:block/ambrosium_ore_3"
+    },
+	{
+      "model": "aether:block/ambrosium_ore_4"
+    }
+	]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "alexscaves:block/galena_iron_ore"
+    },
+    {
+      "model": "alexscaves:block/galena_iron_ore0"
+    },
+    {
+      "model": "alexscaves:block/galena_iron_ore1"
+    },
+    {
+      "model": "alexscaves:block/galena_iron_ore2"
+    }
+  ]
+  }
+}

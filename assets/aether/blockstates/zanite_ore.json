@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "aether:block/zanite_ore"
+    },
+	{
+      "model": "aether:block/zanite_ore_1"
+    },
+	{
+      "model": "aether:block/zanite_ore_2"
+    },
+	{
+      "model": "aether:block/zanite_ore_3"
+    }
+	]
+  }
+}

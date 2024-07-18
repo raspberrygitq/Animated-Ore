@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "alexscaves:block/guanostone_redstone_ore"
+      },
+      {
+        "model": "alexscaves:block/guanostone_redstone_ore0"
+      },
+      {
+        "model": "alexscaves:block/guanostone_redstone_ore1"
+      },
+      {
+        "model": "alexscaves:block/guanostone_redstone_ore2"
+      },
+      {
+        "model": "alexscaves:block/guanostone_redstone_ore3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "alexscaves:block/partially_fullbright",
+  "render_type": "cutout",
+  "textures": {
+    "particle": "alexscaves:block/radrock_uranium_ore1",
+    "base": "alexscaves:block/radrock_uranium_ore1",
+    "fullbright": "alexscaves:block/uranium_ore_glow1"
+  }
+}

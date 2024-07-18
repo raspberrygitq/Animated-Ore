@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "spelunkery:block/andesite_iron_ore1"
+	}
+}

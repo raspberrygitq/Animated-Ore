@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "alexscaves:block/radrock_uranium_ore"
+      },
+      {
+        "model": "alexscaves:block/radrock_uranium_ore0"
+      },
+      {
+        "model": "alexscaves:block/radrock_uranium_ore1"
+      },
+      {
+        "model": "alexscaves:block/radrock_uranium_ore2"
+      }
+    ]
+  }
+}

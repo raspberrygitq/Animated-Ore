@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "deeperdarker:block/sculk_stone_gold_ore"
+    },
+	{
+      "model": "deeperdarker:block/sculk_stone_gold_ore1"
+    },
+	{
+      "model": "deeperdarker:block/sculk_stone_gold_ore2"
+    },
+	{
+      "model": "deeperdarker:block/sculk_stone_gold_ore3"
+    },
+	{
+      "model": "deeperdarker:block/sculk_stone_gold_ore4"
+    }
+	]
+  }
+}

@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "spelunkery:block/andesite_diamond_ore"
+		},
+		{
+			"model": "spelunkery:block/andesite_diamond_ore1"
+		},
+		{
+			"model": "spelunkery:block/andesite_diamond_ore2"
+		},
+		{
+			"model": "spelunkery:block/andesite_diamond_ore3"
+		}
+		]
+	}
+}

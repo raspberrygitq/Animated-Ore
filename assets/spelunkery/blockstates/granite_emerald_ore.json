@@ -1,0 +1,21 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "spelunkery:block/granite_emerald_ore"
+		},
+		{
+			"model": "spelunkery:block/granite_emerald_ore1"
+		},
+		{
+			"model": "spelunkery:block/granite_emerald_ore2"
+		},
+		{
+			"model": "spelunkery:block/granite_emerald_ore3"
+		},
+		{
+			"model": "spelunkery:block/granite_emerald_ore4"
+		}
+		]
+	}
+}

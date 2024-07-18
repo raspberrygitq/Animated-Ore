@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "spelunkery:block/granite_iron_ore"
+		},
+		{
+			"model": "spelunkery:block/granite_iron_ore1"
+		},
+		{
+			"model": "spelunkery:block/granite_iron_ore2"
+		},
+		{
+			"model": "spelunkery:block/granite_iron_ore3"
+		}
+		]
+	}
+}

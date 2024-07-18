@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "aether:block/gravitite_ore"
+    },
+	{
+      "model": "aether:block/gravitite_ore_1"
+    },
+	{
+      "model": "aether:block/gravitite_ore_2"
+    },
+	{
+      "model": "aether:block/gravitite_ore_3"
+    }
+	]
+  }
+}

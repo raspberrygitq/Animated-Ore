@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "deeperdarker:block/gloomslate_lapis_ore"
+    },
+	{
+      "model": "deeperdarker:block/gloomslate_lapis_ore1"
+    },
+	{
+      "model": "deeperdarker:block/gloomslate_lapis_ore2"
+    },
+	{
+      "model": "deeperdarker:block/gloomslate_lapis_ore3"
+    }
+	]
+  }
+}

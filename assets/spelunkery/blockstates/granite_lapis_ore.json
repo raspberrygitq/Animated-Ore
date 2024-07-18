@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "spelunkery:block/granite_lapis_ore"
+		},
+		{
+			"model": "spelunkery:block/granite_lapis_ore1"
+		},
+		{
+			"model": "spelunkery:block/granite_lapis_ore2"
+		},
+		{
+			"model": "spelunkery:block/granite_lapis_ore3"
+		}
+		]
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "spelunkery:block/diorite_diamond_ore"
+		},
+		{
+			"model": "spelunkery:block/diorite_diamond_ore1"
+		},
+		{
+			"model": "spelunkery:block/diorite_diamond_ore2"
+		},
+		{
+			"model": "spelunkery:block/diorite_diamond_ore3"
+		}
+		]
+	}
+}

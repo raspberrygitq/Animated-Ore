@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "deeperdarker:block/gloomslate_iron_ore"
+    },
+	{
+      "model": "deeperdarker:block/gloomslate_iron_ore1"
+    },
+	{
+      "model": "deeperdarker:block/gloomslate_iron_ore2"
+    },
+	{
+      "model": "deeperdarker:block/gloomslate_iron_ore3"
+    }
+	]
+  }
+}
