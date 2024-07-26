@@ -1,14 +1,18 @@
 # Introduction
 A resource pack that changes the appearance of regular vanilla and modded ores to animated ores. They are emissive.
 # GIF
-![](https://i.imgur.com/Q665XcL.gif)
+![](https://i.imgur.com/MwG6xoo.gif)
 # Compatibility 
 - Minecraft Vanilla
 - [OptiFine](https://optifine.net/downloads)¹
-- [Continuity](https://modrinth.com/mod/continuity)¹ (required [Indium](https://modrinth.com/mod/indium)²) (*soon Sodium 0.6*³)
-- [Connectedness](https://modrinth.com/mod/connectedness)¹ (required [Reforgium](https://modrinth.com/mod/reforgium)²)
+    - requires Emissive Textures to be enabled. (*By default, it should be enabled*)
+- [Continuity](https://modrinth.com/mod/continuity)¹ 
+    - required [Indium](https://modrinth.com/mod/indium)² (*soon Sodium 0.6*³, see [here](https://github.com/CaffeineMC/sodium-fabric/milestone/5))
+    - required [Embeddium](https://modrinth.com/mod/embeddium), but only with [Sinytra Connector](https://modrinth.com/mod/connector)
+- [Connectedness](https://modrinth.com/mod/connectedness)¹ 
+    - required [Reforgium](https://modrinth.com/mod/reforgium)²
 
-`¹` - Without these modifications, the resource pack still works only uses features from Minecraft Vanilla. They will not use emissive features.
+`¹` - Without these modifications, the resource pack will still work. It will use the resources contained in Minecraft Vanilla (*unmodified*). The only thing you won't experience is the resource pack emissive features.
 
 `²` - Mods that are required. Without them, Minecraft will not start or will crash.
 
