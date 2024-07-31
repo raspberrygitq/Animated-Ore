@@ -17,7 +17,7 @@ A resource pack that changes the appearance of regular vanilla and modded ores t
 `²` - Mods that are required. Without them, Minecraft will not start or will crash.
 
 `³` - The FRAPI interface will soon be introduced, replacing Indium in the future.
-# Compatible resource packs 📦
+# Compatibility of resource pack 📦
 My resource pack that you want to load with another resource pack must be **higher** so that it does not encounter conflicts. Here below you have examples. 🔽
 
 - [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
