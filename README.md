@@ -17,6 +17,17 @@ A resource pack that changes the appearance of regular vanilla and modded ores t
 `²` - Mods that are required. Without them, Minecraft will not start or will crash.
 
 `³` - The FRAPI interface will soon be introduced, replacing Indium in the future.
+# Compatible resource packs 📦
+My resource pack that you want to load with another resource pack must be **higher** so that it does not encounter conflicts. Here below you have examples. 🔽
+
+- [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
+
+![](https://i.imgur.com/AhRSIWP.png)
+
+- [Fresh Textures](https://modrinth.com/resourcepack/fresh-textures)
+
+![](https://i.imgur.com/LzkMrob.png)
+
 # Compatible mods ✅
 - [Universal Ores](https://modrinth.com/mod/universal_ores)¹
 - [Deeper and Darker](https://modrinth.com/mod/deeperdarker)¹
