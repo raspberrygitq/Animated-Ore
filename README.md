@@ -1,7 +1,7 @@
 # Introduction
 A resource pack that changes the appearance of regular vanilla and modded ores to animated ores. They are emissive.
 # GIF
-![](https://github.com/raspberrygitq/Animated-Ore/blob/main/animated.gif)
+![](https://i.imgur.com/MwG6xoo.gif)
 # Compatibility 
 - Minecraft Vanilla
 - [OptiFine](https://optifine.net/downloads)¹
@@ -20,11 +20,11 @@ A resource pack that changes the appearance of regular vanilla and modded ores t
 # Compatibility of resource pack 📦
 My resource pack that you want to load with another resource pack must be **higher** so that it does not encounter conflicts. Here below you have examples. 🔽
 
-- [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
+### [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
 
 ![](https://i.imgur.com/AhRSIWP.png)
 
-- [Fresh Textures](https://modrinth.com/resourcepack/fresh-textures)
+### [Fresh Textures](https://modrinth.com/resourcepack/fresh-textures)
 
 ![](https://i.imgur.com/LzkMrob.png)
 
