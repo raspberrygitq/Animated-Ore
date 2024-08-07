@@ -8,15 +8,18 @@ A resource pack that changes the appearance of regular vanilla and modded ores t
     - requires Emissive Textures to be enabled. (*By default, it should be enabled*)
 - [Continuity](https://modrinth.com/mod/continuity)¹ 
     - required [Indium](https://modrinth.com/mod/indium)² (*soon Sodium 0.6*³, see [here](https://github.com/CaffeineMC/sodium-fabric/milestone/5))
-    - required [Embeddium](https://modrinth.com/mod/embeddium), but only with [Sinytra Connector](https://modrinth.com/mod/connector)
+    - required [Embeddium](https://modrinth.com/mod/embeddium)⁴ 0.3.20 or latest, but only with [Sinytra Connector](https://modrinth.com/mod/connector). If you are using an older version of Embeddium **0.3.19 and lower**, use [Lazurite](https://www.curseforge.com/minecraft/mc-mods/lazurite) (applies only to Forge 1.20.1)
 - [Connectedness](https://modrinth.com/mod/connectedness)¹ 
     - required [Reforgium](https://modrinth.com/mod/reforgium)²
+    - required [Embeddium](https://modrinth.com/mod/embeddium) (only 1.19.2 and 1.18.2)
 
 `¹` - Without these modifications, the resource pack will still work. It will use the resources contained in Minecraft Vanilla (*unmodified*). The only thing you won't experience is the resource pack emissive features.
 
 `²` - Mods that are required. Without them, Minecraft will not start or will crash.
 
 `³` - The FRAPI interface will soon be introduced, replacing Indium in the future.
+
+`⁴` - The FRAPI interface has been implemented.
 # Compatibility of resource pack 📦
 My resource pack that you want to load with another resource pack must be **higher** so that it does not encounter conflicts. Here below you have examples. 🔽
 
