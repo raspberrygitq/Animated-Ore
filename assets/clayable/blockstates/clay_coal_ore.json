@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "clayable:block/clay_coal_ore"
+      },
+      {
+        "model": "clayable:block/clay_coal_ore1"
+      },
+      {
+        "model": "clayable:block/clay_coal_ore2"
+      },
+      {
+        "model": "clayable:block/clay_coal_ore3"
+      },
+      {
+        "model": "clayable:block/clay_coal_ore4"
+      }
+    ]
+  }
+}
