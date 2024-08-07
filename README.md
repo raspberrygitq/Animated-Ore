@@ -39,6 +39,7 @@ My resource pack that you want to load with another resource pack must be **high
 - [Caves and Cliffs (backport to 1.16.5)](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport)¹
 - [Gems And Crystals](https://www.curseforge.com/minecraft/mc-mods/gems-and-crystals)¹
 - [Spelunkery](https://modrinth.com/mod/spelunkery)¹
+- [Clay Overhaul](https://www.curseforge.com/minecraft/mc-mods/clay-overhaul)
 
 `¹` - Modifications are optional.
 # Incompatible mods ❌
