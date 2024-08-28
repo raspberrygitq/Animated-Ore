@@ -22,7 +22,7 @@ A resource pack that changes the appearance of regular vanilla and modded ores t
 
 `³` - Mods that are required. Without them, Minecraft will not start or will crash.
 
-# Compatibility mods
+### Compatibility mods
 
 ✅ - **Compatible**
 
@@ -44,7 +44,7 @@ A resource pack that changes the appearance of regular vanilla and modded ores t
 
 `¹` - Modifications are optional.
 
-# Compatibility of resource pack 📦
+### Compatibility of resource pack 📦
 My resource pack that you want to load with another resource pack must be **higher** so that it does not encounter conflicts. Here below you have examples. 🔽
 
 ### [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
