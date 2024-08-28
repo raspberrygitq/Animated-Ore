@@ -3,7 +3,7 @@ A resource pack that changes the appearance of regular vanilla and modded ores t
 ### GIF
 ![](https://github.com/raspberrygitq/Animated-Ore/blob/main/animated.gif)
 ### Emissive Compatibility
-- Minecraft Vanilla - ❌
+- Vanilla - ❌
     -  If you are looking for a vanilla version of emissive animated ores I invite you [here](https://modrinth.com/resourcepack/animated-ore-vanilla-emissive). Project is in alpha development as it is being rolled out with the release of snapshots for a future version, **1.21.2**.
 - [OptiFine](https://optifine.net/downloads)¹ - ✅
     - requires **Emissive Textures** to be enabled. (*The default is on*)
