@@ -13,14 +13,14 @@ They are emissive.
 <details>
 <summary>Supported ✅</summary>
 
-* [OptiFine](https://optifine.net/downloads)¹ - ✅
+* [OptiFine](https://optifine.net/downloads)¹
     * requires **Emissive Textures** to be enabled. (*The default is on*)
-* [Continuity](https://modrinth.com/mod/continuity)¹ - ✅
+* [Continuity](https://modrinth.com/mod/continuity)¹
     * required [Sodium](https://modrinth.com/mod/sodium)² **0.6.0 or later** (*For now, it is in a preview version released as a beta version*)
     * required [Embeddium](https://modrinth.com/mod/embeddium)² **0.3.20 or later**, but only with [Sinytra Connector](https://modrinth.com/mod/connector)
     * required [Indium](https://modrinth.com/mod/indium)³ (only **older versions** of **Sodium than version 0.6.0**)
     * required [Lazurite](https://www.curseforge.com/minecraft/mc-mods/lazurite)³ (applies only to Forge 1.20.1. If you are using an older version of Embeddium **0.3.19 and lower**)
-* [Connectedness](https://modrinth.com/mod/connectedness)¹ - ✅
+* [Connectedness](https://modrinth.com/mod/connectedness)¹
     * required [Embeddium](https://modrinth.com/mod/embeddium) (for action Reforgium, **only 1.19.2 and 1.18.2**)
     * required [Reforgium](https://modrinth.com/mod/reforgium)³
 
