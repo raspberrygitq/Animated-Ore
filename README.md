@@ -71,8 +71,8 @@ My resource pack that you want to load with another resource pack must be **high
 
 ### [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
 
-![](https://i.imgur.com/AhRSIWP.png)
+![](https://i.imgur.com/kQmjf5U.png)
 
 ### [Fresh Textures](https://modrinth.com/resourcepack/fresh-textures)
 
-![](https://i.imgur.com/LzkMrob.png)
+![](https://i.imgur.com/9VtgiFf.png)
