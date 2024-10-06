@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "clayable:block/clay_iron_ore",
-    "particle": "clayable:block/clay_iron_ore"
-  },
-  "render_type": "solid"
-}

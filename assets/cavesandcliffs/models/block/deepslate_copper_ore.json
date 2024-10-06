@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "cavesandcliffsblock/deepslate_copper_ore"
-  }
-}
