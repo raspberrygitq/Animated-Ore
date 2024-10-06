@@ -9,7 +9,7 @@ They are emissive.
 <hr>
 
 ### Emissive Compatibility
-
+<hr>
 <details>
 <summary>Supported ✅</summary>
 
@@ -39,10 +39,13 @@ They are emissive.
 </details>
 <hr>
 
-### Support for mods
+### Compatibility mods 
+<hr>
+
+Version only (**Vanilla + Mods**)
 
 <details>
-<summary>Supported ✅</summary>
+<summary>Compatibility ✅</summary>
 
 * [Universal Ores](https://modrinth.com/mod/universal_ores)¹
 * [Deeper and Darker](https://modrinth.com/mod/deeperdarker)¹
@@ -60,19 +63,31 @@ They are emissive.
 
 </details>
 <details>
-<summary>Unsupported ❌</summary>
+<summary>Incompatibility ❌</summary>
 
 * [Excavated Variants](https://modrinth.com/mod/excavated_variants)
 </details>
 <hr>
 
 ### Compatibility of resource pack 📦
+<hr>
 My resource pack that you want to load with another resource pack must be **higher** so that it does not encounter conflicts. Here below you have examples. 🔽
+<details>
+<summary>Compatibility ✅</summary>
 
-### [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
+* [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
 
 ![](https://i.imgur.com/kQmjf5U.png)
 
-### [Fresh Textures](https://modrinth.com/resourcepack/fresh-textures)
+* [Fresh Textures](https://modrinth.com/resourcepack/fresh-textures)
 
 ![](https://i.imgur.com/9VtgiFf.png)
+</details>
+<details>
+<summary>Incompatibility ❌</summary>
+
+* 
+</details>
+<hr>
+
+If there was an incompatibility with this resource pack create an issue [here](https://github.com/raspberrygitq/Animated-Ore/issues)
