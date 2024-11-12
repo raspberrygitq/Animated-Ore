@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "deeperdarker:block/gloomstone_gold_ore"
+    "all": "deeperdarker:block/gloomslate_gold_ore"
   }
 }

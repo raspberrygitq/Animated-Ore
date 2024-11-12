@@ -2,19 +2,19 @@
   "variants": {
     "": [
 	{
-      "model": "deeperdarker:block/sculk_stone_coal_ore"
+      "model": "deeperdarker:block/gloomslate_coal_ore"
     },
 	{
-      "model": "deeperdarker:block/sculk_stone_coal_ore1"
+      "model": "deeperdarker:block/gloomslate_coal_ore1"
     },
 	{
-      "model": "deeperdarker:block/sculk_stone_coal_ore2"
+      "model": "deeperdarker:block/gloomslate_coal_ore2"
     },
 	{
-      "model": "deeperdarker:block/sculk_stone_coal_ore3"
+      "model": "deeperdarker:block/gloomslate_coal_ore3"
     },
 	{
-      "model": "deeperdarker:block/sculk_stone_coal_ore4"
+      "model": "deeperdarker:block/gloomslate_coal_ore4"
     }
 	]
   }
