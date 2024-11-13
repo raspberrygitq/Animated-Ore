@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "oritech:block/resource_node_redstone"
+    },
+	{
+      "model": "oritech:block/resource_node_redstone1"
+    },
+	{
+      "model": "oritech:block/resource_node_redstone2"
+    },
+	{
+      "model": "oritech:block/resource_node_redstone3"
+    },
+	{
+      "model": "oritech:block/resource_node_redstone4"
+    }
+	]
+  }
+}

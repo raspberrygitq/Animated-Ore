@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "oritech:block/resource_node_lapis"
+    },
+	{
+      "model": "oritech:block/resource_node_lapis1"
+    },
+	{
+      "model": "oritech:block/resource_node_lapis2"
+    },
+	{
+      "model": "oritech:block/resource_node_lapis3"
+    }
+	]
+  }
+}

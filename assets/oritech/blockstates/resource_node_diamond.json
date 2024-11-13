@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "oritech:block/resource_node_diamond"
+    },
+	{
+      "model": "oritech:block/resource_node_diamond1"
+    },
+	{
+      "model": "oritech:block/resource_node_diamond2"
+    },
+	{
+      "model": "oritech:block/resource_node_diamond3"
+    }
+	]
+  }
+}

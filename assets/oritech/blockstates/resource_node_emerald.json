@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "oritech:block/resource_node_emerald"
+    },
+	{
+      "model": "oritech:block/resource_node_emerald1"
+    },
+	{
+      "model": "oritech:block/resource_node_emerald2"
+    },
+	{
+      "model": "oritech:block/resource_node_emerald3"
+    },
+	{
+      "model": "oritech:block/resource_node_emerald4"
+    }
+	]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "oritech:block/resource_node_coal"
+    },
+	{
+      "model": "oritech:block/resource_node_coal1"
+    },
+	{
+      "model": "oritech:block/resource_node_coal2"
+    },
+	{
+      "model": "oritech:block/resource_node_coal3"
+    },
+	{
+      "model": "oritech:block/resource_node_coal4"
+    }
+	]
+  }
+}

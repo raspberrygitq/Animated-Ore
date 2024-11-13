@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [ 
+	{
+      "model": "oritech:block/resource_node_gold"
+    },
+	{
+      "model": "oritech:block/resource_node_gold1"
+    },
+	{
+      "model": "oritech:block/resource_node_gold2"
+    },
+	{
+      "model": "oritech:block/resource_node_gold3"
+    },
+	{
+      "model": "oritech:block/resource_node_gold4"
+    }
+	]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "oritech:block/resource_node_copper"
+    },
+	{
+      "model": "oritech:block/resource_node_copper1"
+    },
+	{
+      "model": "oritech:block/resource_node_copper2"
+    },
+	{
+      "model": "oritech:block/resource_node_copper3"
+    },
+	{
+      "model": "oritech:block/resource_node_copper4"
+    }
+	]
+  }
+}

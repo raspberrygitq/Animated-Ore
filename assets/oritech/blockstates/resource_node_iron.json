@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "oritech:block/resource_node_iron"
+    },
+	{
+      "model": "oritech:block/resource_node_iron1"
+    },
+	{
+      "model": "oritech:block/resource_node_iron2"
+    },
+	{
+      "model": "oritech:block/resource_node_iron3"
+    }
+	]
+  }
+}
