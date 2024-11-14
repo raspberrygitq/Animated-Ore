@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "actuallyadditions:block/black_quartz_deepslate_ore"
+    },
+	{
+      "model": "actuallyadditions:block/black_quartz_deepslate_ore1"
+    },
+	{
+      "model": "actuallyadditions:block/black_quartz_deepslate_ore2"
+    },
+	{
+      "model": "actuallyadditions:block/black_quartz_deepslate_ore3"
+    }
+	]
+  }
+}
