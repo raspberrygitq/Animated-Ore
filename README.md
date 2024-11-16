@@ -1,15 +1,6 @@
 ### Introduction
 <hr>
-<<<<<<< Updated upstream
-A resource pack that changes the appearance of regular vanilla and modded ores to animated ores. 
-They are emissive.
-<hr>
-
-### GIF
-![](https://github.com/raspberrygitq/Animated-Ore/blob/main/animated.gif)
-=======
 A resource pack that changes the appearance of regular vanilla and modded ores to animated ores. They are emissive.
->>>>>>> Stashed changes
 <hr>
 
 ### Emissive Compatibility
@@ -44,40 +35,6 @@ A resource pack that changes the appearance of regular vanilla and modded ores t
 <hr>
 
 ### Compatibility mods 
-<<<<<<< Updated upstream
-<hr>
-
-Version only (**Vanilla + Mods**)
-
-<details>
-<summary>Compatibility ✅</summary>
-
-* [Universal Ores](https://modrinth.com/mod/universal_ores)¹
-* [Deeper and Darker](https://modrinth.com/mod/deeperdarker)¹
-* [Weeping Angels](https://modrinth.com/mod/weeping-angels)¹
-* [Aether](https://modrinth.com/mod/aether)¹
-* [Aether Ancient](https://modrinth.com/mod/ancient-aether)¹
-* More Ore Stones [[Forge](https://www.curseforge.com/minecraft/mc-mods/mores-forge)¹/[Fabric](https://modrinth.com/mod/mores)¹]
-* [Alex Caves](https://modrinth.com/mod/alexs-caves)¹
-* [Caves and Cliffs (backport to 1.16.5)](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport)¹
-* [Gems And Crystals](https://www.curseforge.com/minecraft/mc-mods/gems-and-crystals)¹
-* [Spelunkery](https://modrinth.com/mod/spelunkery)¹
-* [Clay Overhaul](https://www.curseforge.com/minecraft/mc-mods/clay-overhaul)¹
-
-`¹` - Modifications are optional.
-
-</details>
-<details>
-<summary>Incompatibility ❌</summary>
-
-* [Excavated Variants](https://modrinth.com/mod/excavated_variants)
-</details>
-<hr>
-
-### Compatibility of resource pack 📦
-<hr>
-My resource pack that you want to load with another resource pack must be **higher** so that it does not encounter conflicts. Here below you have examples. 🔽
-=======
 | Mod                                                                                                                           | 1.21.x | 1.20.x | 1.19.x | 1.18.x | 1.17.x | 1.16.x |
 | :---------------------------------------------------------------------------------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: 
 | [Universal Ores](https://modrinth.com/mod/universal_ores)                                                                     |  ❌  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |
@@ -97,7 +54,6 @@ My resource pack that you want to load with another resource pack must be **high
 ### Compatibility of resource pack 📦
 <hr>
 If you want to load this resource pack from this project another resource pack must be **"above ”**, because it will not work. Here below you have examples. 🔽
->>>>>>> Stashed changes
 <details>
 <summary>Compatibility ✅</summary>
 
