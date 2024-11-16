@@ -53,6 +53,7 @@ A resource pack that changes the appearance of regular vanilla and modded ores t
 | [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech)                                                               |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |
 ### Compatibility of resource pack 📦
 <hr>
+
 If you want to load this resource pack from this project another resource pack must be **above**, because it will not work. Here below you have examples. 🔽
 <details>
 <summary>Compatibility ✅</summary>
