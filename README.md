@@ -1,11 +1,15 @@
 ### Introduction
 <hr>
+<<<<<<< Updated upstream
 A resource pack that changes the appearance of regular vanilla and modded ores to animated ores. 
 They are emissive.
 <hr>
 
 ### GIF
 ![](https://github.com/raspberrygitq/Animated-Ore/blob/main/animated.gif)
+=======
+A resource pack that changes the appearance of regular vanilla and modded ores to animated ores. They are emissive.
+>>>>>>> Stashed changes
 <hr>
 
 ### Emissive Compatibility
@@ -40,6 +44,7 @@ They are emissive.
 <hr>
 
 ### Compatibility mods 
+<<<<<<< Updated upstream
 <hr>
 
 Version only (**Vanilla + Mods**)
@@ -72,6 +77,27 @@ Version only (**Vanilla + Mods**)
 ### Compatibility of resource pack 📦
 <hr>
 My resource pack that you want to load with another resource pack must be **higher** so that it does not encounter conflicts. Here below you have examples. 🔽
+=======
+| Mod                                                                                                                           | 1.21.x | 1.20.x | 1.19.x | 1.18.x | 1.17.x | 1.16.x |
+| :---------------------------------------------------------------------------------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: 
+| [Universal Ores](https://modrinth.com/mod/universal_ores)                                                                     |  ❌  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |
+| [Deeper and Darker](https://modrinth.com/mod/deeperdarker)                                                                    |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |
+| [Weeping Angels](https://www.curseforge.com/minecraft/mc-mods/weeping-angels-mod)                                             |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
+| [Aether](https://modrinth.com/mod/aether)                                                                                     |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |
+| [Aether Ancient](https://modrinth.com/mod/ancient-aether)                                                                     |  ❌  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |
+| More Ore Stones [[Forge](https://www.curseforge.com/minecraft/mc-mods/mores-forge)/[Fabric](https://modrinth.com/mod/mores)]  |  ❌  |  ❌  |  ❌  |  ✅  |  ✅  |  ❌  |
+| [Alex Caves](https://modrinth.com/mod/alexs-caves)                                                                            |  ❌  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |
+| [Caves and Cliffs (backport to 1.16.5)](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport)               |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ✅  |
+| [Gems And Crystals](https://www.curseforge.com/minecraft/mc-mods/gems-and-crystals)                                           |  ❌  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
+| [Spelunkery](https://modrinth.com/mod/spelunkery)                                                                             |  ❌  |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |
+| [Clay Overhaul](https://www.curseforge.com/minecraft/mc-mods/clay-overhaul)                                                   |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |  ❌  |
+| [Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions)                                         |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |
+| [Create](https://www.curseforge.com/minecraft/mc-mods/create)                                                                 |  ❌  |  ✅  |  ✅  |  ✅  |  ❌  |  ✅  |
+| [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech)                                                               |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |
+### Compatibility of resource pack 📦
+<hr>
+If you want to load this resource pack from this project another resource pack must be **"above ”**, because it will not work. Here below you have examples. 🔽
+>>>>>>> Stashed changes
 <details>
 <summary>Compatibility ✅</summary>
 
