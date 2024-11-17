@@ -52,7 +52,7 @@ A resource pack that changes the appearance of regular vanilla and modded ores t
 | [Create](https://www.curseforge.com/minecraft/mc-mods/create)                                                                 |  ❌  |  ✅  |  ✅  |  ✅  |  ❌  |  ✅  |
 | [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech)                                                               |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |
 
-✅️ - The resource pack is compatible with this mod 
+✅️ - The resource pack is compatible with this mod.
 ❌️ - The resource pack does not offer support for the mods in question, or the mods were not created with the version in mind. 
 
 ### Compatibility of resource pack 📦
