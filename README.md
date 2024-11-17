@@ -34,7 +34,7 @@ A resource pack that changes the appearance of regular vanilla and modded ores t
 </details>
 <hr>
 
-### Compatibility mods 
+### Resource Pack Mod Compatibility
 | Mod                                                                                                                           | 1.21.x | 1.20.x | 1.19.x | 1.18.x | 1.17.x | 1.16.x |
 | :---------------------------------------------------------------------------------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: 
 | [Universal Ores](https://modrinth.com/mod/universal_ores)                                                                     |  ❌  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |
@@ -51,6 +51,10 @@ A resource pack that changes the appearance of regular vanilla and modded ores t
 | [Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions)                                         |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |
 | [Create](https://www.curseforge.com/minecraft/mc-mods/create)                                                                 |  ❌  |  ✅  |  ✅  |  ✅  |  ❌  |  ✅  |
 | [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech)                                                               |  ✅  |  ✅  |  ❌  |  ❌  |  ❌  |  ❌  |
+
+✅️ - The resource pack is compatible with this mod 
+❌️ - The resource pack does not offer support for the mods in question, or the mods were not created with the version in mind. 
+
 ### Compatibility of resource pack 📦
 <hr>
 
