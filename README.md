@@ -83,7 +83,8 @@ If you want to load this resource pack from this project another resource pack m
 
 ![](https://i.imgur.com/kQmjf5U.png)
 ![](https://i.imgur.com/9VtgiFf.png)
-</details>
-<hr>
+<br>
 
 If there was an incompatibility with this resource pack create an issue [here](https://github.com/raspberrygitq/Animated-Ore/issues)
+</details>
+<hr>
