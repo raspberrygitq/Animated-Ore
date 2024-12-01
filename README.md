@@ -5,42 +5,37 @@ This resource pack adds refreshed Animated Ore to your Minecraft world, somethin
 
 ### Emissive Compatibility ✨
 <hr>
-<details>
-<summary>Supported/Unsupported</summary>
 
-| Mod                                                     | 1.21.2/3 | 1.21-1.21.1 | 1.20.5/6 | 1.20.3/4 | 1.20.2 | 1.20-1.20.1 | 1.19.4 | 1.19.3 | 1.19-1.19.2 | 1.18-1.18.2 | 1.17-1.17.1 | 1.16.5 |
-| :------------------------------------------------------ | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:
-| [OptiFine](https://optifine.net/downloads)             |  ❓  |  ✅  |  ❓  |  ✅  |  ❓  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
-| [Continuity](https://modrinth.com/mod/continuity)      |  ❓  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |
-| [Connectedness](https://modrinth.com/mod/connectedness)|  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ✅  |  ✅  |  ❌  |  ❌  |
+| Mod                                                    | 1.21.4 | 1.21.2/3 | 1.21-1.21.1 | 1.20.5/6 | 1.20.3/4 | 1.20.2 | 1.20-1.20.1 | 1.19.4 | 1.19.3 | 1.19-1.19.2 | 1.18-1.18.2 | 1.17-1.17.1 | 1.16.5 |
+| :----------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:
+| [OptiFine](https://optifine.net/downloads)             |  ❌  |  ❓  |  ✅  |  ❓  |  ✅  |  ❓  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
+| [Continuity](https://modrinth.com/mod/continuity)      |  ❌  |  ❓  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |
+| [Connectedness](https://modrinth.com/mod/connectedness)|  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ✅  |  ✅  |  ❌  |  ❌  |
 
-## Requirements
+<h4>Requirements</h4>
 <h5>OptiFine</h5>
-<hr>
 
 - Emissive Textures to be enabled. (The default is on.)
 <h5>Continuity</h5>
-<hr>
 
 - [Sodium](https://modrinth.com/mod/sodium) 0.6.0 or later.
-- [Embeddium](https://modrinth.com/mod/embeddium) 0.3.20 or later, but only with [Sinytra Connector](https://modrinth.com/mod/connector)
-- [Indium](https://modrinth.com/mod/indium) (only older versions of Sodium than version 0.6.0)
-- [Lazurite](https://www.curseforge.com/minecraft/mc-mods/lazurite) (applies only to Forge 1.20.1. If you are using an older version of Embeddium 0.3.19 and lower, but only with [Sinytra Connector](https://modrinth.com/mod/connector))
+    - ~~[Indium](https://modrinth.com/mod/indium)~~ (only older versions of Sodium released before 0.6.0)
+- [Embeddium](https://modrinth.com/mod/embeddium) 0.3.20 or later.
+    - ~~[Lazurite](https://www.curseforge.com/minecraft/mc-mods/lazurite)~~ (only older versions of Embeddium released before version 0.3.20)
+
+*These mods require the [Sinytra Connector](https://modrinth.com/mod/connector) in Forge/NeoForge to use this mod.*
+
 <h5>Connectedness</h5>
-<hr>
 
-- [Embeddium](https://modrinth.com/mod/embeddium) (for action [Reforgium](https://modrinth.com/mod/reforgium), only 1.19.2 and 1.18.2)
-## Version support
-
+- [Embeddium](https://modrinth.com/mod/embeddium)
+    - [Reforgium](https://modrinth.com/mod/reforgium), only 1.19.2 and 1.18.2
+<h4>Version support</h4>
 ✅ - Mods are officially available. <br>
 ❓ - Mods are in early development or have been released as pre-release versions. <br>
 ❌ - The mod is not available in the version or has not yet been released.
-</details>
 
 ### Mod Compatibility
 <hr>
-<details>
-<summary>Supported/Unsupported</summary>
 
 | Mod                                                                                                                         | Compatibility | 
 | :-------------------------------------------------------------------------------------------------------------------------- | :-----------: | 
@@ -60,16 +55,10 @@ This resource pack adds refreshed Animated Ore to your Minecraft world, somethin
 | [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech)                                                             |  ✅  |
 | [Excavated Variants](https://modrinth.com/mod/excavated_variants)                                                           |  ❌  |
 
-✅️ - The resource pack is compatible with this mod.
-<br>
+✅️ - The resource pack is compatible with this mod. <br>
 ❌ - Mod is incompatible with this resource pack.
-</details>
-
 ### Resource pack Compatibility 📦
 <hr>
-
-<details>
-<summary>Supported/Unsupported</summary>
 
 | Resource Pack                                                            | Supported |
 | :----------------------------------------------------------------------- | :-------: |            
@@ -82,9 +71,6 @@ This resource pack adds refreshed Animated Ore to your Minecraft world, somethin
 If you want to load this resource pack from this project another resource pack must be **above**, because it will not work. Here below you have examples. 🔽
 
 ![](https://i.imgur.com/kQmjf5U.png)
-![](https://i.imgur.com/9VtgiFf.png)
 <br>
-
 If there was an incompatibility with this resource pack create an issue [here](https://github.com/raspberrygitq/Animated-Ore/issues)
-</details>
 <hr>
