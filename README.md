@@ -6,7 +6,7 @@ This resource pack adds refreshed Animated Ore to your Minecraft world, somethin
 ### Emissive Compatibility ✨
 <hr>
 
-| Mod                                                    | 1.21.4 | 1.21.2/3 | 1.21-1.21.1 | 1.20.5/6 | 1.20.3/4 | 1.20.2 | 1.20-1.20.1 | 1.19.4 | 1.19.3 | 1.19-1.19.2 | 1.18-1.18.2 | 1.17-1.17.1 | 1.16.5 |
+| Mod                                                    | 1.21.4 | 1.21.2/3 | 1.21-1.21.1 | 1.20.5/6 | 1.20.3/4 | 1.20.2 | 1.20-1.20.1 | 1.19.4 | 1.19.3 | 1.19-1.19.2 | 1.18.x | 1.17.x | 1.16.x |
 | :----------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:
 | [OptiFine](https://optifine.net/downloads)             |  ❌  |  ❓  |  ✅  |  ❓  |  ✅  |  ❓  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
 | [Continuity](https://modrinth.com/mod/continuity)      |  ❌  |  ❓  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |
@@ -23,13 +23,14 @@ This resource pack adds refreshed Animated Ore to your Minecraft world, somethin
 - [Embeddium](https://modrinth.com/mod/embeddium) 0.3.20 or later.
     - ~~[Lazurite](https://www.curseforge.com/minecraft/mc-mods/lazurite)~~ (only older versions of Embeddium released before version 0.3.20)
 
-*These mods require the [Sinytra Connector](https://modrinth.com/mod/connector) in Forge/NeoForge to use this mod.*
+*If you want to use the mod in Forge/NeoForge it is recommended to use [Sinytra Connector](https://modrinth.com/mod/connector). (1.20.1 or later only)*
 
 <h5>Connectedness</h5>
 
 - [Embeddium](https://modrinth.com/mod/embeddium)
-    - [Reforgium](https://modrinth.com/mod/reforgium), only 1.19.2 and 1.18.2
+    - [Reforgium](https://modrinth.com/mod/reforgium) only Forge 1.19.2 and 1.18.2
 <h4>Version support</h4>
+
 ✅ - Mods are officially available. <br>
 ❓ - Mods are in early development or have been released as pre-release versions. <br>
 ❌ - The mod is not available in the version or has not yet been released.
@@ -55,9 +56,9 @@ This resource pack adds refreshed Animated Ore to your Minecraft world, somethin
 | [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech)                                                             |  ✅  |
 | [Excavated Variants](https://modrinth.com/mod/excavated_variants)                                                           |  ❌  |
 
-✅️ - The resource pack is compatible with this mod. <br>
-❌ - Mod is incompatible with this resource pack.
-### Resource pack Compatibility 📦
+✅️ - This mod has native support for this resource pack. <br>
+❌ - Mod that is incompatible with this resource pack.
+### Resource Pack compatibility 📦
 <hr>
 
 | Resource Pack                                                            | Supported |
@@ -65,12 +66,10 @@ This resource pack adds refreshed Animated Ore to your Minecraft world, somethin
 | [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)|    ✅    |  
 | [Fresh Textures](https://modrinth.com/resourcepack/fresh-textures)       |    ✅    |
 
-### Action
-<hr>
+<h4>Action</h4>
 
 If you want to load this resource pack from this project another resource pack must be **above**, because it will not work. Here below you have examples. 🔽
 
 ![](https://i.imgur.com/kQmjf5U.png)
 <br>
 If there was an incompatibility with this resource pack create an issue [here](https://github.com/raspberrygitq/Animated-Ore/issues)
-<hr>
