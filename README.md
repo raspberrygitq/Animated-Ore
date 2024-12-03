@@ -10,7 +10,6 @@ This resource pack adds refreshed Animated Ore to your Minecraft world, somethin
 | :----------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:
 | [OptiFine](https://optifine.net/downloads)             |  ❌  |  ❓  |  ✅  |  ❓  |  ✅  |  ❓  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
 | [Continuity](https://modrinth.com/mod/continuity)      |  ❌  |  ❓  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |
-| [Connectedness](https://modrinth.com/mod/connectedness)|  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ❌  |  ✅  |  ✅  |  ❌  |  ❌  |
 
 <h4>Requirements</h4>
 <h5>OptiFine</h5>
@@ -25,10 +24,6 @@ This resource pack adds refreshed Animated Ore to your Minecraft world, somethin
 
 *If you want to use the mod in Forge/NeoForge it is recommended to use [Sinytra Connector](https://modrinth.com/mod/connector). (1.20.1 or later only)*
 
-<h5>Connectedness</h5>
-
-- [Embeddium](https://modrinth.com/mod/embeddium)
-    - [Reforgium](https://modrinth.com/mod/reforgium) only Forge 1.19.2 and 1.18.2
 <h4>Version support</h4>
 
 ✅ - Mods are officially available. <br>
@@ -38,8 +33,8 @@ This resource pack adds refreshed Animated Ore to your Minecraft world, somethin
 ### Mod Compatibility
 <hr>
 
-| Mod                                                                                                                         | Compatibility | 
-| :-------------------------------------------------------------------------------------------------------------------------- | :-----------: | 
+| Mod                                                                                                                         | Supported | 
+| :-------------------------------------------------------------------------------------------------------------------------- | :-------: | 
 | [Universal Ores](https://modrinth.com/mod/universal_ores)                                                                   |  ✅  |  
 | [Deeper and Darker](https://modrinth.com/mod/deeperdarker)                                                                  |  ✅  |
 | [Weeping Angels](https://www.curseforge.com/minecraft/mc-mods/weeping-angels-mod)                                           |  ✅  | 
