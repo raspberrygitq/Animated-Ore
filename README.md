@@ -39,7 +39,7 @@ This resource pack adds refreshed Animated Ore to your Minecraft world. They als
 | [Deeper and Darker](https://modrinth.com/mod/deeperdarker)                                                                  |  ✅  |
 | [Weeping Angels](https://www.curseforge.com/minecraft/mc-mods/weeping-angels-mod)                                           |  ✅  | 
 | [Aether](https://modrinth.com/mod/aether)                                                                                   |  ✅  | 
-| [Aether Ancient](https://modrinth.com/mod/ancient-aether)                                                                   |  ✅  |
+| [Ancient Aether](https://modrinth.com/mod/ancient-aether)                                                                   |  ✅  |
 | More Ore Stones [[Forge](https://www.curseforge.com/minecraft/mc-mods/mores-forge)/[Fabric](https://modrinth.com/mod/mores)]|  ✅  |
 | [Alex Caves](https://modrinth.com/mod/alexs-caves)                                                                          |  ✅  |
 | [Caves and Cliffs (backport to 1.16.5)](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport)             |  ✅  |
