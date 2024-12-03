@@ -1,7 +1,7 @@
 ### Introduction
 <hr>
 
-This resource pack adds refreshed Animated Ore to your Minecraft world, something similar to the [Visuality](https://modrinth.com/mod/visuality) mod. They also have their variants, so there will be not just one, but several block textures. It also offers mod support, for now in a small amount, but in the future there will be added such mod support! They also have support for emissive, which is optional, even if you do not have a mod introducing this functionality will be used from the default resources included in the game or mod.
+This resource pack adds refreshed Animated Ore to your Minecraft world. They also have their variants, so there will be not just one, but several block textures. It also offers mod support, for now in a small amount, but in the future there will be added such mod support! They also have support for emissive, which is optional, even if you do not have a mod introducing this functionality will be used from the default resources included in the game.
 
 ### Emissive Compatibility ✨
 <hr>
