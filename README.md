@@ -8,7 +8,7 @@ This resource pack adds refreshed Animated Ore to your Minecraft world. They als
 
 | Mod                                                    | 1.21.4 | 1.21.2/3 | 1.21-1.21.1 | 1.20.5/6 | 1.20.3/4 | 1.20.2 | 1.20-1.20.1 | 1.19.4 | 1.19.3 | 1.19-1.19.2 | 1.18.x | 1.17.x | 1.16.x |
 | :----------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:
-| [OptiFine](https://optifine.net/downloads)             |  ❌  |  ❓  |  ✅  |  ❓  |  ✅  |  ❓  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
+| [OptiFine](https://optifine.net/downloads)             |  ❓  |  ❓  |  ✅  |  ❓  |  ✅  |  ❓  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
 | [Continuity](https://modrinth.com/mod/continuity)      |  ❌  |  ❓  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |
 
 <h4>Requirements</h4>
@@ -21,8 +21,6 @@ This resource pack adds refreshed Animated Ore to your Minecraft world. They als
     - ~~[Indium](https://modrinth.com/mod/indium)~~ (only older versions of Sodium released before 0.6.0)
 - [Embeddium](https://modrinth.com/mod/embeddium) 0.3.20 or later.
     - ~~[Lazurite](https://www.curseforge.com/minecraft/mc-mods/lazurite)~~ (only older versions of Embeddium released before version 0.3.20)
-
-*If you want to use the mod in Forge/NeoForge it is recommended to use [Sinytra Connector](https://modrinth.com/mod/connector). (1.20.1 or later only)*
 
 <h4>Version support</h4>
 
