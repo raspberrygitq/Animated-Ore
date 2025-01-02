@@ -48,7 +48,7 @@ This resource pack adds refreshed Animated Ore to your Minecraft world. They als
 | [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech)                                                             |  ✅  |
 | [Excavated Variants](https://modrinth.com/mod/excavated_variants)                                                           |  ❌  |
 | [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)                                                           |  ✅  |
-| [Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos)                                                 |  ❓  |
+
 ✅️ - This mod has native support for this resource pack. <br>
 ❌ - Mod that is incompatible with this resource pack.
 ### Resource Pack compatibility 📦
