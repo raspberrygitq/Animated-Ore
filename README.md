@@ -6,28 +6,27 @@ This resource pack adds refreshed Animated Ore to your Minecraft world. They als
 ### Emissive Compatibility ✨
 <hr>
 
-| Mod                                                    | 1.21.4 | 1.21.2/3 | 1.21-1.21.1 | 1.20.5/6 | 1.20.3/4 | 1.20.2 | 1.20-1.20.1 | 1.19.x | 1.18.x | 1.17.x | 1.16.x |
-| :----------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----:
-| [OptiFine](https://optifine.net/downloads)             |  ❓  |  ✅  |  ✅  |  ❓  |  ✅  |  ❓  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
-| [Continuity](https://modrinth.com/mod/continuity)      |  ❌ |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅   |  ✅  |  ❌  |
-
-<h4>Requirements</h4>
-<h5>OptiFine</h5>
-
-- Emissive Textures to be enabled. (The default is on.)
-<h5>Continuity</h5>
-
-- [Sodium](https://modrinth.com/mod/sodium) 0.6.0 or later.
-    - ~~[Indium](https://modrinth.com/mod/indium)~~ (only older versions of Sodium released before 0.6.0)
-- [Embeddium](https://modrinth.com/mod/embeddium) 0.3.20 or later.
-    - ~~[Lazurite](https://www.curseforge.com/minecraft/mc-mods/lazurite)~~ (only older versions of Embeddium released before version 0.3.20)
-
-<h4>Version support</h4>
+| Mod                                              | 1.21.4 | 1.21-1.21.3 | 1.20.x | 1.19.x* | 1.18.x* | 1.17.x* | 1.16.x* |
+| :----------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----:
+| [OptiFine](https://optifine.net/downloads)       |  ❓  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
+| [Continuity](https://modrinth.com/mod/continuity)|  ❌  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |
 
 ✅ - Mods are officially available. <br>
 ❓ - Mods are in early development or have been released as pre-release versions. <br>
 ❌ - The mod is not available in the version or has not yet been released.
 
+*Versions marked with `*` indicate end of support.*
+
+<h4>Requirements</h4>
+<h5>OptiFine</h5>
+
+- Emissive Textures to be enabled. (The default is on.)
+<h5>Continuity (recommended)</h5>
+
+- [Sodium](https://modrinth.com/mod/sodium) 0.6.0 or later.
+    - ~~[Indium](https://modrinth.com/mod/indium)~~ (only older versions of Sodium released before 0.6.0)
+- [Embeddium](https://modrinth.com/mod/embeddium) 0.3.20 or later.
+    - ~~[Lazurite](https://www.curseforge.com/minecraft/mc-mods/lazurite)~~ (only older versions of Embeddium released before version 0.3.20)
 ### Mod Compatibility
 <hr>
 
@@ -48,7 +47,8 @@ This resource pack adds refreshed Animated Ore to your Minecraft world. They als
 | [Create](https://www.curseforge.com/minecraft/mc-mods/create)                                                               |  ✅  |
 | [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech)                                                             |  ✅  |
 | [Excavated Variants](https://modrinth.com/mod/excavated_variants)                                                           |  ❌  |
-
+| [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)                                                           |  ✅  |
+| [Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos)                                                 |  ❓  |
 ✅️ - This mod has native support for this resource pack. <br>
 ❌ - Mod that is incompatible with this resource pack.
 ### Resource Pack compatibility 📦
