@@ -6,10 +6,10 @@ This resource pack adds refreshed Animated Ore to your Minecraft world. They als
 ### Emissive Compatibility ✨
 <hr>
 
-| Mod                                              | 1.21.4 | 1.21-1.21.3 | 1.20.x | 1.19.x* | 1.18.x* | 1.17.x* | 1.16.x* |
-| :----------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----:
-| [OptiFine](https://optifine.net/downloads)       |  ❓  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
-| [Continuity](https://modrinth.com/mod/continuity)|  ❌  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |
+| Mod                                              | 1.21-1.21.4 | 1.20.x | 1.19.x* | 1.18.x* | 1.17.x* | 1.16.x* |
+| :----------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----:
+| [OptiFine](https://optifine.net/downloads)       |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
+| [Continuity](https://modrinth.com/mod/continuity)|  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ❌  |
 
 ✅ - Mods are officially available. <br>
 ❓ - Mods are in early development or have been released as pre-release versions. <br>
