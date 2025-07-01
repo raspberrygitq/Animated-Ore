@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "meadow:block/alpine_redstone_ore"
+    },
+	{
+      "model": "meadow:block/alpine_redstone_ore1"
+    },
+	{
+      "model": "meadow:block/alpine_redstone_ore2"
+    },
+	{
+      "model": "meadow:block/alpine_redstone_ore3"
+    },
+	{
+      "model": "meadow:block/alpine_redstone_ore4"
+    }
+	]
+  }
+}

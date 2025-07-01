@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "meadow:block/alpine_copper_ore"
+    },
+	{
+      "model": "meadow:block/alpine_copper_ore1"
+    },
+	{
+      "model": "meadow:block/alpine_copper_ore2"
+    },
+	{
+      "model": "meadow:block/alpine_copper_ore3"
+    },
+	{
+      "model": "meadow:block/alpine_copper_ore4"
+    }
+	]
+  }
+}

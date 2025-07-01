@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "meadow:block/alpine_lapis_ore"
+    },
+	{
+      "model": "meadow:block/alpine_lapis_ore1"
+    },
+	{
+      "model": "meadow:block/alpine_lapis_ore2"
+    },
+	{
+      "model": "meadow:block/alpine_lapis_ore3"
+    }
+	]
+  }
+}
