@@ -12,9 +12,6 @@
 		},
 		{
 			"model": "universal_ores:block/basalt_quartz_ore3"
-		},
-		{
-			"model": "universal_ores:block/basalt_quartz_ore4"
 		}
 		]
 	}
