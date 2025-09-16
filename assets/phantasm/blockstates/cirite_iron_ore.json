@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "phantasm:block/cirite_iron_ore"
+    },
+	{
+      "model": "phantasm:block/cirite_iron_ore1"
+    },
+	{
+      "model": "phantasm:block/cirite_iron_ore2"
+    },
+	{
+      "model": "phantasm:block/cirite_iron_ore3"
+    }
+	]
+  }
+}
